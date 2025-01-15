@@ -1,6 +1,6 @@
 # PROG2006 - Advanced Programming
 
-Welcome to my repository for **PROG2006 - Advanced Programming**, a course that explores modern programming languages and paradigms. This repository contains my coursework, including notes, assignments, and personal projects.
+Welcome to my repository for **PROG2006 - Advanced Programming**.
 
 ---
 
